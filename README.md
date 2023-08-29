@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aafrinsurti257
-- 👀 I’m interested in graphic designing 
-- 🌱 I’m currently learning canva,photoshop. 
+- 👀 I’m interested in Frontend developer. 
+- 🌱 I’m currently learning JavaScript,ReactJs,tailwind. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me aafrinsurti123@gmail.com 
 
